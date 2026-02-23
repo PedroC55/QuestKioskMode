@@ -1,0 +1,1 @@
+C:\Users\Pedro\Documents\GitHub\QuestLauncher\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\2h242e6d\obj\arm64-v8a
